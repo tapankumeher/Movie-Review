@@ -7,7 +7,7 @@
 * Can Add Language.
 * Add / Update Movie.
 * View / Add Review for Movie
-* The whole project is based on Entity Framework, Linq, and Lambda expression.
+* The whole project is based on C#, Entity Framework Core, Linq and Lambda expression.
 
 <b>Language used              : asp.net core web api (MVC)
   
