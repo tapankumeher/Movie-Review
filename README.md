@@ -1,5 +1,4 @@
 <h2>Movie-Review</h2>
-[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
 <b>Movie Review Web API using dotnetcore 3.1</b>
 
 
