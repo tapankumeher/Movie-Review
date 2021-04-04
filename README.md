@@ -17,7 +17,7 @@ Database                        : Microsoft SQL Server 2017</b>
 
 1. In visual studio, open the solution or project.
 2. Modify the Connection String as you needed to connect to database. Go to (inside project) :
-appsetting.json. At the last portion, you'll find the connection string like below : 
+appsettings.json. At the last portion, you'll find the connection string like below : 
 
 ```
 "ConnectionStrings": {
@@ -27,7 +27,7 @@ appsetting.json. At the last portion, you'll find the connection string like bel
   
   * Check on the internet how to write or change Connection Strings, change your <b>data source, user id, password</b> as needed. Or provide <b> Windows Authentication </b>, as your wish.
 3. Goto package manager console and run command update-database
-4. Now Buid and run the project
+4. Now Build and run the project
   
 5. <b>Some word of wisdom : This is a  basic project in ASP.NET CORE WEBAPI. My intention to upload this so that you will, get some idea for your project.</b>
   
